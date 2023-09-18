@@ -75,3 +75,5 @@ export default function RootLayout({
     </html>
   )
 }
+
+// Deneme git add. 
